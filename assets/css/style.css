@@ -1,0 +1,33 @@
+.col-4{
+  background-color: linen;
+  
+  height:100%;
+  
+}
+.author-img img{
+    border-radius: 50%;
+    width:150px;        
+}
+.text-center{
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top:50px;
+
+}
+.about-section{
+  text-align:center;
+}
+.skill-section{
+  text-align:center;
+}
+hr{
+  width:50%;
+  background-color:green;
+}
+footer{
+  font-family: 'Cormorant Garamond', serif;
+  font-size:10px;
+  text-align: center;
+}
+.contact-section{
+  text-align:center;
+}
